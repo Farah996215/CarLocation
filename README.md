@@ -1,8 +1,7 @@
 # 👋 W E L C O M E  T O  C A R  T R A C K E R ! 🚗💨
 
-![moving car](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
-> Built with 💖 by **Farah Mzoughhi** & **Nada Jaouadi**
+> Built with 💖 **Farah Mzoughhi** & **Nada Jaouadi**
 
 ---
 
