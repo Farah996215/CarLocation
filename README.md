@@ -14,8 +14,8 @@ Whether you're managing a fleet or your personal ride — we're here to help!
 
 ## 🚧 Technologies
 
-- Frontend: HTML, CSS, JavaScript  
-- Backend: PHP  
+- Frontend: Angular
+- Backend: SpringBoot  
 - Database: SQL  
 
 ---
